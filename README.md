@@ -23,7 +23,7 @@ Installation
    cd eCommerce-backend
 3. Install the required dependencies using npm or yarn:
    npm install
-   # or
+   or
    yarn install
 
 Configuration
